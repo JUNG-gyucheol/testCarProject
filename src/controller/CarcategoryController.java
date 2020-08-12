@@ -12,7 +12,7 @@ import javax.servlet.http.HttpServletResponse;
 
 import db.CarDAO;
 import db.CarListBean;
-
+//카테고리차
 
 /**
  * 카테고리별 차 검색
